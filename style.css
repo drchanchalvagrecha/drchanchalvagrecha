@@ -1100,6 +1100,14 @@ input.success, select.success, textarea.success {
 }
 
 @media (max-width: 768px) {
+    .section-padding {
+        padding: 4rem 0;
+    }
+    
+    h2 {
+        font-size: 2rem;
+    }
+
     .hamburger {
         display: block;
     }
