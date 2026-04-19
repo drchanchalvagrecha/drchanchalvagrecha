@@ -478,6 +478,15 @@ img {
     position: relative;
 }
 
+.about-stamp-top {
+    height: 60px;
+    width: auto;
+    margin-bottom: 1rem;
+    display: block;
+    opacity: 0.95;
+    filter: drop-shadow(0 4px 6px rgba(0,0,0,0.08));
+}
+
 .about-image-placeholder {
     width: 100%;
     aspect-ratio: 4/5;
